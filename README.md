@@ -1,2 +1,2 @@
 # Peer to Peer Architecture
- The Demonstration of peer to peer architecture using sockets and threading in python
+ The Demonstration of peer to peer network using sockets and threading in python
